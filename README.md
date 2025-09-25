@@ -31,7 +31,7 @@ The application is structured with clear packages and provides a foundational fr
 Technical Demonstrations
 This project maps to the syllabus requirements, showcasing various Java SE features and OOP principles.
 
-
+Syllabus Topic
 
 Description
 
